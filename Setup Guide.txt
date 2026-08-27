@@ -1,0 +1,14 @@
+Setup Guide
+Run the Frontend on Port 3000
+
+Make sure you are inside the /frontend directory.
+
+Open the terminal using Ctrl + J.
+Run the following command:
+" npx serve . -l 3000 "
+
+Open your browser and go to:
+http://localhost:3000
+
+
+eto guide man para mapa-run nyo
